@@ -1,0 +1,15 @@
+
+
+h1{
+    font-family: "Dancing Script", cursive;
+}
+
+
+
+.my-image{
+    /* margin-left: 783px;
+    margin-top: -376px;
+    width: 549px; */
+    max-width: 100%; /* Ensures the image never exceeds the width of its container */
+    height: auto; 
+}
